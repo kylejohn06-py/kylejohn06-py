@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @kylejohn06-py
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#write a program to prompt the user for hours and rate per hour to compute gross pay
 
-<!---
-kylejohn06-py/kylejohn06-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> print ('hellow kyle world')
-print()
+user1 = int(input("enter hours: "))
+user2 = float(input("enter rate: "))
+user3 = user1 * user2
 
+print("pay: ", str(user3))
