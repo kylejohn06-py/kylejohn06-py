@@ -1,0 +1,12 @@
+#INDEXING
+samle = "kyle {last} ako {nothing} daw {try}"
+sample = samle.format(last="pogi", nothing="kaau", lone="try")
+print(sample)
+
+
+
+#%
+last = "rate"
+laugh = 36.4
+sample1 = "the last product of %s the laugh  %.4f" % (last, laugh)
+print(sample1)
