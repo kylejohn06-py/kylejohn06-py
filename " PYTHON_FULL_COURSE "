@@ -1,1 +1,69 @@
+#1    " PYTHON IDE ( INTEGRATED DEVELOPMENT ENVIRONMENT )"
+      - Programming language which provides TOOLS to ease the user's labor. 
+            * PYCHARM
+            *IDLE PYTHON
+
+
+#2 " IDENTIFIER "
+     - Name of the variable which the user decides to choose.
+syntax:
+      (anywords = alpha)
+The "anywords" is the IDENTIFIER.
+
+
+#3    " VARIABLE "
+      - Are used to store up data for later use.
+
+BASIC DATA TYPE:
+
+string() 
+
+IDENTIFIER = "Hello World"
+-sentences,phrases,characters
+
+int()
+
+IDENTIFIER = 1, 2, 3, 4, 5, 6, 7, 8, 9, 10    
+-real numbers only, positive & negative numbers
+
+float()
+
+IDENTIFIER = 124.54262
+-with a decimal numbers
+
+bool()
+
+IDENTIFIER = True, False    
+-True or False
+
+
+
+#4    " INPUT "
+-Used to make the user input something in the console.
+ 
+syntax: 
+      identifier = input()
+      identifier = input("Enter something: ")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
